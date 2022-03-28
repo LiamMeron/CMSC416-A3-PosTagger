@@ -20594,7 +20594,7 @@ have/VBP to/TO scrape/VB ,/, ''/'' says/VBZ
 ./. 
 ``/`` 
 [ We/PRP ]
-'ve/VBP tried/VBD to/TO train_baseline/VB
+'ve/VBP tried/VBD to/TO train/VB 
 [ the/DT youngsters/NNS ]
 ,/, but/CC 
 [ they/PRP ]
@@ -21166,7 +21166,7 @@ and/CC
 ./. 
 But/CC 
 [ the/DT council/NN 's/POS program/NN ]
-to/TO attract/VB and/CC train_baseline/VB
+to/TO attract/VB and/CC train/VB 
 [ ringers/NNS ]
 is/VBZ only/RB partly/RB 
 [ successful/JJ ]
